@@ -50,8 +50,8 @@ Backend-focused developer passionate about AI, automation, and building producti
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:mahekrutuja@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/mahek-shukla-technophile/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/Mahek-Technophile"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
