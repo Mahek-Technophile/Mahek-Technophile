@@ -24,7 +24,7 @@ Backend-focused developer passionate about AI, automation, and building producti
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,nextjs,nodejs,tailwind,html,css,spring,flask,mysql,git,github,gcp,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,nextjs,nodejs,tailwind,html,css,mysql,git,github,gcp,aws,azure" />
 </p>
 
 ---
